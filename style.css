@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+.links line {
+  stroke: white;
+  stroke-opacity: 0.9;
+  stroke-width: 5px;
+}
+
+.nodes circle {}
+
+.node text {
+  text-anchor: middle;
+  alignment-baseline: middle;
+  font-size: 12px;
+  fill: #EEE;
+}
+
+.clear-text {
+  font-size: 32px;
+  fill: white;
+  text-anchor: middle;
+
+}
+
+.clear-text:hover {
+  font-size: 40px;
+}
