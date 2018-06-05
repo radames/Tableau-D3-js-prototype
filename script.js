@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function initTableu() {
   var containerDiv = document.getElementById('vizContainer'),
-    url = 'http://public.tableau.com/views/RegionalSampleWorkbook/College',
+    url = 'https://public.tableau.com/views/RegionalSampleWorkbook/College',
     options = {
       'Academic Year': '',
       hideTabs: true
